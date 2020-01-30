@@ -17,12 +17,12 @@ Se presenta el 7 de Febrero de 2020 en un máximo de 8 minutos. Trae tu presenta
 1/10 puntos. Sin entrega no hay calificación.
 
 ### Etapa 2. 
-Presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 17 de Febrero de 2020.
+Presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 14 de Febrero de 2020.
 
 2/10 puntos
 
 ### Etapa 3. 
-De acuerdo a lo especificado, presenta tu proyecto frente al grupo. Recuerda que eres responsable de TODO lo necesario para presentar tu proyecto.  Se presenta el 20 de Febrero de 2020 en un máximo de 8 minutos. 
+De acuerdo a lo especificado, presenta tu proyecto frente al grupo. Recuerda que eres responsable de TODO lo necesario para presentar tu proyecto.  Se presenta el 18 de Febrero de 2020 en un máximo de 8 minutos. 
 
 6/10 puntos. Si no presentas en el tiempo tu calificación es 0/10
 
