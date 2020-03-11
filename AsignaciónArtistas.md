@@ -1,27 +1,30 @@
-| ACOSTA BEJAR DAVID                | Laurie Spiegel        |
-|-----------------------------------|-----------------------|
-| AGUILAR ESCORCIA ISRAEL           | Reed Ghazala          |
-| ALBA GNOS ELEAZAR                 | Dj Kool Herc          |
-| ALCOCER SEBASTIAN ANA VICTORIA    | Laetitia Sonami       |
-| AMEZQUITA JUAREZ JUAN ANDRES      | Kraftwerk             |
-| BRIONES ESPINOZA NADIA TERESA     | Ben Frost             |
-| CANCHOLA PACHECO GERARDO          | Suzanne Ciani         |
-| CASTILLO RUIZ JAVIER OCTAVIO      | Brian Eno             |
-| COVARRUBIAS HERNANDEZ EMILIA      | Delia Derbyshire      |
-| ESPITIA DÍAZ COLUMBA IRENE        | Edgar Varese          |
-| GALLARDO GARCIA MARIANA CECILIA   | John Cage             |
-| GUERRERO LEDESMA JEZABEL          | LaMonte Young         |
-| GUTIÉRREZ GUTIÉRREZ VENUS MARIBEL | Steve Reich           |
-| GUTÍERREZ MARTÍNEZ JORGE IVÁN     | Karlheinz Stockhousen |
-| HERRERA LÓPEZ JOSÉ CONRADO        | Alvin Lucier          |
-| LOPEZ PEREZ MARIA SOLEDAD         | Pauline Oliveros      |
-| LÓPEZ TRUJILLO ANDREA ELIZABETH   | Luigi Russolo         |
-| MIRANDA OROZCO CESAR ALEJANDRO    | Jeff Carey            |
-| ORIGEL PACHECO RAMÓN ALFREDO      | Laurie Anderson       |
-| PEREZ AGUILERA EDGAR DIEGO        | Pierre Schaffer       |
-| PEREZ CENDEJAS LUIS EDUARDO       | Iannis Xenakis        |
-| RINCÓN MEJÍA MARIANA LIZBETH      | Ryoji Ikeda           |
-| ROARO DURAN ALDO SAMUEL           | Derek Bailey          |
-| ROSALES FRIAS JORGE MIGUEL        | Keith Rowe            |
-| TORRES GARCIA LUNA EUGENIO        | Michel Waisvisz       |
-| TORRES GARCÍA LUNA GUSTAVO        | Zimoun                |
+| ALMANZA PÉREZ VICTORIA                | Laurie Spiegel        |
+|---------------------------------------|-----------------------|
+| ARRIOLA MOSQUEDA SERGIO               | Reed Ghazala          |
+| ARTEAGA SIERRA BENJAMIN ANTONIO       | Dj Kool Herc          |
+| BAEZA ZAVALA JUAN PABLO               | Laetitia Sonami       |
+| BUSTOS ZAVALA ESTEFANÍA               | Kraftwerk             |
+| CORDERO RODRIGUEZ MARCOS              | Ben Frost             |
+| FERNÁNDEZ CORONA GERALDINE CONCEPCIÓN | Suzanne Ciani         |
+| FONSECA RODRIGUEZ CRISTIAN CAMILO     | Brian Eno             |
+| GARCIA BARRON AZALEA ESMIRNA          | Delia Derbyshire      |
+| GARCÍA MÁRQUEZ MONSERRAT              | Edgar Varese          |
+| GARCIA SALAZAR LUIS ANGEL             | John Cage             |
+| GASCÓN HERNÁNDEZ ANDREA LUCÍA         | LaMonte Young         |
+| JACOBO FLORES LUIS                    | Steve Reich           |
+| MARTINEZ LEON LORENA LIZETTE          | Karlheinz Stockhousen |
+| MARTÍNEZ PALACIOS CARLOS ALONSO       | Alvin Lucier          |
+| MEDINA CALDERON ALONDRA MONTSERRAT    | Pauline Oliveros      |
+| MENA UMIÑSKA ROMINA JALINKA           | Luigi Russolo         |
+| MORALES LEMUS ABRAHAM EMMANUEL        | Jeff Carey            |
+| MORAZAN GUZMAN HAYDEE MICHELLE        | Laurie Anderson       |
+| MOSQUEDA PEREZ LUCINA                 | Pierre Schaffer       |
+| NAVA ZEPEDA ABRIL SARAI               | Iannis Xenakis        |
+| OLAGUE MARTINEZ DHAMAR GERALDINE      | Ryoji Ikeda           |
+| PACHECO ROSALES GUSTAVO JUNIOR        | Derek Bailey          |
+| PACHECO ROSALES MARIANA               | Keith Rowe            |
+| PRECIADO TRUJILLO IVÁN                | Michel Waisvisz       |
+| RAMIREZ LUNA ALAN ARMANDO             | Zimoun                |
+| RAZO TOVAR PAOLA KARINA               | Peter Vogel           |
+| TORRES HERRERA LORENA                 | Dj Shadow             |
+| URRUTIA MARTÍNEZ FRANCISCO JAVIER     | Conlon Nancarrow      |
