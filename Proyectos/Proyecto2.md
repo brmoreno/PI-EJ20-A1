@@ -18,7 +18,7 @@ Presenta frente al grupo dos opciones para tu proyecto. Tu presentación debe in
 2/10 puntos. Sin entrega no hay calificación.
 
 # Etapa 2. 
-Utilizando el checklist (https://github.com/brmoreno/PI-EJ20-A2/blob/master/Proyectos/checklistP2.md), presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 30 de Marzo de 2020. El checklist se entrega en físico al final de la clase.
+Utilizando el checklist (https://github.com/brmoreno/PI-EJ20-A1/blob/master/Proyectos/checklistP2.md), presenta el estado de avance de tu proyecto y recibe retroalimentación de otro equipo. Evaluaremos tanto el estado de avance de tu proyecto como la calidad y substancia de la retroalimentación que des a tus compañeros en forma de critica constructiva y preguntas. Se realiza el 30 de Marzo de 2020. El checklist se entrega en físico al final de la clase.
 
 2/10 puntos
 
